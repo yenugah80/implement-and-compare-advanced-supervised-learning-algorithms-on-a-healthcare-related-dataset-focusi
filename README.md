@@ -1,4 +1,4 @@
-Week 5 Hands-On Activity (5pts Extra credit)
+Hands-On Activity
 Activity Overview:
 Work in groups to implement and compare advanced supervised learning algorithms on a healthcare-related dataset focusing on disease prediction. Apply hyperparameter tuning and model evaluation.
 Instructions:
